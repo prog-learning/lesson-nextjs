@@ -17,3 +17,4 @@ yarn create next-app lesson-nextjs
 - TypeScript
 - SSG
 - SSR
+- deploy vercel
